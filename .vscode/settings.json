@@ -11,5 +11,6 @@
         "type_traits": "c",
         "utility": "c",
         "vector": "c"
-    }
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
